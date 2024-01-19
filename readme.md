@@ -1,4 +1,4 @@
-## DHCPv6 prefix delegation script
+## Cisco dynamic DHCPv6 prefix delegation script
 
 ## Use case
 
