@@ -15,8 +15,7 @@ This script isn't plug&play. The trigger, the regexp and ipv6 routes will have t
 The script will be trigged when renewing the lease DHCP lease then it will compare the new IP address with the IP address previously received. 
 If the new ip is different from the old one it will update the DHCPv6-PD pool and update the route.
 
-
-![Algorithm schema](./images/flowchart.png)
+<img src="./images/flowchart.png" width="500">
 
 ```
 event manager applet DHCPV6-monitor
